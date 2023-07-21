@@ -1,2 +1,2 @@
-# GIT---ProblemSolvingTest---RayhanMH
+# GITS---ProblemSolvingTest---RayhanMH
 Menggunakan PHP
